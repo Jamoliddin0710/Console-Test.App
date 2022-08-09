@@ -1,0 +1,15 @@
+/home/jamoliddin/netbootcamp/Problem/appquiz/bin/Debug/net6.0/appquiz
+/home/jamoliddin/netbootcamp/Problem/appquiz/bin/Debug/net6.0/appquiz.deps.json
+/home/jamoliddin/netbootcamp/Problem/appquiz/bin/Debug/net6.0/appquiz.runtimeconfig.json
+/home/jamoliddin/netbootcamp/Problem/appquiz/bin/Debug/net6.0/appquiz.dll
+/home/jamoliddin/netbootcamp/Problem/appquiz/bin/Debug/net6.0/appquiz.pdb
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.csproj.AssemblyReference.cache
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.AssemblyInfoInputs.cache
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.AssemblyInfo.cs
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.csproj.CoreCompileInputs.cache
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.dll
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/refint/appquiz.dll
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.pdb
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/appquiz.genruntimeconfig.cache
+/home/jamoliddin/netbootcamp/Problem/appquiz/obj/Debug/net6.0/ref/appquiz.dll
